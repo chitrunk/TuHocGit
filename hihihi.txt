@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 day la noi dung file nay o main của Chitrunk11 sửa
 =======
 day la noi dung file nay o main 4h chieu hehe
 >>>>>>> chitrunk-patch-2
+=======
+day la noi dung file nay o main của Chitrunk11
+>>>>>>> origin/chitrunk11-patch-1
